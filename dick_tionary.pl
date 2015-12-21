@@ -37,8 +37,10 @@ my $engrish_dictionary = {
         ' accident' => ' akushindento',
          ' while' => ' meanwhile I\'m poorly proportioned, short, stupid, bad at English, don\'t have any breasts, act like sich a kid and',            # quoted
     ' dog' => ' Strelka',
-    ' dogs' => ' Strelka and Belka',
     ' ok' => ' I\'ll just try to imagine what you said and nod a lot',
     ' protip' => ' purofesshionaru adubaissu',
+    ' friend' => ' furiendo',
+    ' need' => 'needo',
+    ' indeed' => 'indeedo',
     # TODO: we need moar entries
     };
