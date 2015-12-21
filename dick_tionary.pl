@@ -40,5 +40,6 @@ my $engrish_dictionary = {
     ' dogs' => ' Strelka and Belka',
     ' ok' => ' I\'ll just try to imagine what you said and nod a lot',
     ' protip' => ' purofesshionaru adubaissu',
+    ' yes' => ' hai',
     # TODO: we need moar entries
     };
